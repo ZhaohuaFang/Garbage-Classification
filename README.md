@@ -1,3 +1,4 @@
 Here, we divide garbage into four categories, which are General waste, Compostable waste, Recyclable waste and Hazardous waste. Instead of classifying garbage into four waste types directly, we classify garbage into sixteen waste-item classes first. For example, if a waste is a light bulb, then it is a hazardous waste. If a given waste is classified as paper, it is a recyclable waste. For implementation, we use classic deep network structure such as VGG-16, ResNet-50 and MobileNet V2 and then compare the output between each network. We found that using output from waste-item classifier to identify waste type can result into a higher accuracy in each deep network structure we use.
 
-Detailed information can be seen in the paper：**Municipal Solid Waste Segregation with CNN .pdf**
+Detailed information can be seen in the paper：[**Municipal Solid Waste Segregation with CNN .pdf**]
+(Municipal Solid Waste Segregation with CNN .pdf)
